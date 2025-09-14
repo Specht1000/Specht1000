@@ -12,16 +12,6 @@
   <img align="center" alt="python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 </div>
 
-<br>
-
-### 📍 Contador de Visitantes
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/{Specht1000}/count.svg" alt="Número de visitantes no perfil" />
-</p>
-
-<br>
-
 ### Minhas redes
 
 <div> 
