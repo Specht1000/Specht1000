@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Guilherme Specht
 
 🎓 Education:
-- Bachelor of Engineering in Computer Engineering at PUCRS
+- Bachelor of Science Degree in Computer Engineering at PUCRS
 - Master's Student in Microelectronics & Automation at Polytech Montpellier
 
 🔬 Interests:
