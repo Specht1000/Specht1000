@@ -35,28 +35,14 @@
 
 ## 🛠️ Technologies & Tools
 
-<div style="display: inline_block"><br>
+<div align="center">
 
-  <img align="center" alt="c" height="40" width="50"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-
-  <img align="center" alt="cplusplus" height="40" width="50"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-
-  <img align="center" alt="python" height="40" width="50"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-
-  <img align="center" alt="stm32" height="40" width="50"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg">
-
-  <img align="center" alt="git" height="40" width="50"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-
-  <img align="center" alt="linux" height="40" width="50"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-
-  <img align="center" alt="vscode" height="40" width="50"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+<img alt="c" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img alt="cplusplus" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+<img alt="python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+<img alt="git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+<img alt="linux" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+<img alt="vscode" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 
 </div>
 
