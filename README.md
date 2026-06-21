@@ -8,9 +8,7 @@
 - Embedded Systems
 - Real-Time Operating Systems (RTOS)
 - STM32 & ESP32 Development
-- Signal Processing
 - IoT & Industrial Automation
-- Robotics & Control Systems
 - Biomedical Engineering 
 
 📍 Montpellier, France
