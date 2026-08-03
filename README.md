@@ -9,6 +9,7 @@
 - Real-Time Operating Systems (RTOS)
 - STM32 & ESP32 Development
 - IoT & Industrial Automation
+- Artificial Intelligence
 - Biomedical Engineering 
 
 📍 Montpellier, France
