@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Guilherme Specht
+# 👋 Hello!, I am Guilherme Specht
 
 🎓 Education:
 - Bachelor of Science in Computer Engineering at PUCRS
