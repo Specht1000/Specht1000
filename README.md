@@ -12,7 +12,10 @@
 - Artificial Intelligence
 - Biomedical Engineering 
 
-📍 Montpellier, France
+🌎 Languages:
+- Portuguese (Brazil)
+- English
+- French
 
 ---
 
