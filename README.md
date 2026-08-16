@@ -10,10 +10,11 @@
 - STM32 & ESP32 Development
 - IoT & Industrial Automation
 - Artificial Intelligence
+- Automotive
 - Biomedical Engineering 
 
 🌎 Languages:
-- Portuguese (Brazil)
+- Portuguese
 - English
 - French
 
