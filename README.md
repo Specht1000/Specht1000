@@ -11,7 +11,8 @@
 - IoT & Industrial Automation
 - Artificial Intelligence
 - Automotive
-- Biomedical Engineering 
+- Biomedical Engineering
+- Cryptography
 
 🌎 Languages:
 - Portuguese
