@@ -7,7 +7,7 @@
 🔬 Interests:
 - Embedded Systems
 - Real-Time Operating Systems (RTOS)
-- STM32 & ESP32 Development
+- Firmware and Hardware Development
 - IoT & Industrial Automation
 - Artificial Intelligence
 - Automotive
