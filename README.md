@@ -2,7 +2,7 @@
 
 🎓 Education:
 - Bachelor of Science in Computer Engineering at PUCRS
-- Master's Student in Microelectronics & Automation at Polytech Montpellier
+- Double + Master’s Degree Student in Microelectronics & Automation at Polytech Montpellier
 
 🔬 Interests:
 - Embedded Systems
